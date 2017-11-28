@@ -13,6 +13,11 @@
 ## オフレコ
 <img src="https://raw.githubusercontent.com/yuyarin/presentation_icons/master/off-record.png" width=320 />
 
+## SNS投稿禁止
+<img src="https://raw.githubusercontent.com/yuyarin/presentation_icons/master/no-post-to-sns.png" width=320 />
+
+オフレコではないが、SNSなどの公開媒体に講演内容を投稿することを避けてもらいたい場合に使用したいとの要望があったので作成しました。
+
 ## 公開OK
 
 <img src="https://raw.githubusercontent.com/yuyarin/presentation_icons/master/public.png" width=320 />
